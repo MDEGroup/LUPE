@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="726a31c0-2cd4-4108-8334-ad4e355a1bf6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1zqvlT7SccG9TW85BZ42LjB7COa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weight/GAPI200_2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weight/GAPI200_2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="--dirname GAPI200_2" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="726a31c0-2cd4-4108-8334-ad4e355a1bf6" name="Default Changelist" comment="" />
+      <created>1634888583992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634888583992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634888671615">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state x="716" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634888671615" />
+    <state width="2482" height="498" key="GridCell.Tab.0.bottom" timestamp="1634915088111">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.0.bottom/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088111" />
+    <state width="2482" height="498" key="GridCell.Tab.0.center" timestamp="1634915088111">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.0.center/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088111" />
+    <state width="2482" height="498" key="GridCell.Tab.0.left" timestamp="1634915088110">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.0.left/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088110" />
+    <state width="2482" height="498" key="GridCell.Tab.0.right" timestamp="1634915088111">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.0.right/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088111" />
+    <state width="2482" height="498" key="GridCell.Tab.1.bottom" timestamp="1634915088114">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.1.bottom/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088114" />
+    <state width="2482" height="498" key="GridCell.Tab.1.center" timestamp="1634915088114">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.1.center/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088114" />
+    <state width="2482" height="498" key="GridCell.Tab.1.left" timestamp="1634915088113">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.1.left/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088113" />
+    <state width="2482" height="498" key="GridCell.Tab.1.right" timestamp="1634915088114">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state width="2482" height="498" key="GridCell.Tab.1.right/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634915088114" />
+    <state x="760" y="368" key="SettingsEditor" timestamp="1634890632493">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state x="760" y="368" key="SettingsEditor/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634890632493" />
+    <state x="981" y="638" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1634890413224">
+      <screen x="0" y="25" width="2503" height="1415" />
+    </state>
+    <state x="981" y="638" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1440.25.1440.875/0.25.2503.1415@0.25.2503.1415" timestamp="1634890413224" />
+  </component>
+</project>

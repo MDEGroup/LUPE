@@ -29,3 +29,4 @@ This repository is organized as follows:
 | KDD      | Knowledge Discovery and Data Mining                                                                             |
 | OOPSLA   | Object-Oriented Programming, Systems, Languages & Applications                                                  |
 | ICSE     | International Conference on Software Engineering                                                                |
+| EMSE     | International Symposium on Empirical Software Engineering and Measurement                                       |
